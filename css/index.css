@@ -1,0 +1,31 @@
+.navColor{
+	background-color: red;
+}
+
+.link-items{
+	color: #ffff !important; 
+	padding: 30px !important;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+.crs-img{
+	height: 60vh;
+}
+.abt{
+	height: 70vh;
+
+}
+#footer{
+	background-color: red;
+	height: 12vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.para{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+
+}
